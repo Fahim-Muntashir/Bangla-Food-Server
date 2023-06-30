@@ -1,0 +1,236 @@
+[
+    {
+    "id": 1,
+      "picture": "https://images.pexels.com/photos/4253312/pexels-photo-4253312.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Chef John",
+      "experience": 10,
+      "recipes": 50,
+      "likes": 1000,
+      "description": "Chef John is a seasoned culinary expert with 10 years of experience. He specializes in creating delicious and innovative recipes that leave a lasting impression. His passion for cooking shines through in every dish he prepares.",
+      "recipeDetails": [
+        {
+          "picture": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Roasted Salmon",
+          "description": "Enjoy the succulent flavors of perfectly roasted salmon with a hint of lemon and herbs. This dish is a crowd-pleaser and makes for a healthy and satisfying meal.",
+          "cook_method": "Roasting",
+          "prepTime": "30 minutes",
+          "Rating":"5",
+          "ingredients":"Vegetables,Spices,Fruits,Paket Milk,Banana"
+
+        },
+        {
+          "picture": "https://images.pexels.com/photos/6823324/pexels-photo-6823324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Creamy Mushroom Risotto",
+          "description": "Indulge in a creamy and flavorful mushroom risotto that melts in your mouth. This classic Italian dish is the perfect comfort food for any occasion.",
+          "cook_method": "Deep Frying",
+          "prepTime": "45 minutes",
+          "Rating":"4.5",
+          "ingredients":"Vegetables,Spices,Herbs,Meat Products,Fruits."
+        },
+        {
+          "picture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Decadent Chocolate Cake",
+          "description": "Satisfy your sweet tooth with a slice of this decadent chocolate cake. Moist, rich, and topped with luscious ganache, it's a dessert that will delight chocolate lovers.",
+          "cook_method": "Stey",
+          "ingredients":"Spices,Cereals, Meat.Dairy, Salt , Water ,Fruits.",
+          "prepTime": "60 minutes",
+          "Rating":"4"
+
+        }
+      ]
+    },
+    {
+        "id": 2,
+
+      "picture": "https://images.pexels.com/photos/3338672/pexels-photo-3338672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Chef Emily",
+      "experience": 8,
+      "recipes": 40,
+      "likes": 800,
+      "description": "Chef Emily is known for her creative approach to cooking. With 8 years of experience, she combines unique flavors and techniques to create memorable dishes that delight the palate.",
+      "recipeDetails":  [
+        {
+          "picture": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Roasted Salmon",
+          "description": "Enjoy the succulent flavors of perfectly roasted salmon with a hint of lemon and herbs. This dish is a crowd-pleaser and makes for a healthy and satisfying meal.",
+          "cook_method": "Roasting",
+          "prepTime": "30 minutes",
+          "Rating":"5",
+          "ingredients":"Vegetables,Spices,Fruits,Paket Milk,Banana"
+
+        },
+        {
+          "picture": "https://images.pexels.com/photos/6823324/pexels-photo-6823324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Creamy Mushroom Risotto",
+          "description": "Indulge in a creamy and flavorful mushroom risotto that melts in your mouth. This classic Italian dish is the perfect comfort food for any occasion.",
+          "cook_method": "Deep Frying",
+          "prepTime": "45 minutes",
+          "Rating":"4.5",
+          "ingredients":"Vegetables,Spices,Herbs,Meat Products,Fruits."
+        },
+        {
+          "picture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Decadent Chocolate Cake",
+          "description": "Satisfy your sweet tooth with a slice of this decadent chocolate cake. Moist, rich, and topped with luscious ganache, it's a dessert that will delight chocolate lovers.",
+          "cook_method": "Stey",
+          "ingredients":"Spices,Cereals, Meat.Dairy, Salt , Water ,Fruits.",
+          "prepTime": "60 minutes",
+          "Rating":"4"
+
+        }
+      ]
+    },
+    {
+        
+    "id":3,        
+      "picture": "https://images.pexels.com/photos/4253301/pexels-photo-4253301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Chef David",
+      "experience": 12,
+      "recipes": 60,
+      "likes": 1200,
+      "description": "Chef David brings his wealth of experience and culinary expertise to the table. With 12 years in the industry, he crafts exquisite dishes that showcase the finest ingredients and innovative techniques.",
+      "recipeDetails":  [
+        {
+          "picture": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Roasted Salmon",
+          "description": "Enjoy the succulent flavors of perfectly roasted salmon with a hint of lemon and herbs. This dish is a crowd-pleaser and makes for a healthy and satisfying meal.",
+          "cook_method": "Roasting",
+          "prepTime": "30 minutes",
+          "Rating":"5",
+          "ingredients":"Vegetables,Spices,Fruits,Paket Milk,Banana"
+
+        },
+        {
+          "picture": "https://images.pexels.com/photos/6823324/pexels-photo-6823324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Creamy Mushroom Risotto",
+          "description": "Indulge in a creamy and flavorful mushroom risotto that melts in your mouth. This classic Italian dish is the perfect comfort food for any occasion.",
+          "cook_method": "Deep Frying",
+          "prepTime": "45 minutes",
+          "Rating":"4.5",
+          "ingredients":"Vegetables,Spices,Herbs,Meat Products,Fruits."
+        },
+        {
+          "picture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Decadent Chocolate Cake",
+          "description": "Satisfy your sweet tooth with a slice of this decadent chocolate cake. Moist, rich, and topped with luscious ganache, it's a dessert that will delight chocolate lovers.",
+          "cook_method": "Stey",
+          "ingredients":"Spices,Cereals, Meat.Dairy, Salt , Water ,Fruits.",
+          "prepTime": "60 minutes",
+          "Rating":"4"
+
+        }
+      ]
+    },
+
+    {"id":4,
+      "picture": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Chef Shamim",
+      "experience": 6,
+      "recipes": 30,
+      "likes": 600,
+      "description": "Chef Shamim is a rising star in the culinary world. With 6 years of experience, he brings a fresh and contemporary approach to cooking, blending traditional and modern flavors with finesse.",
+      "recipeDetails": [
+        {
+          "picture": "https://example.com/recipe10.jpg",
+          "name": "Spicy Thai Basil Chicken",
+          "description": "Experience the bold and aromatic flavors of spicy Thai basil chicken. This stir-fry dish is packed with tender chicken, vibrant vegetables, and a fragrant blend of herbs and spices.",
+          "difficulty": "Easy",
+          "prepTime": "30 minutes"
+        },
+        {
+          "picture": "https://example.com/recipe11.jpg",
+          "name": "Sushi Roll Assortment",
+          "description": "Unleash your inner sushi chef with this assortment of homemade sushi rolls. From California rolls to spicy tuna rolls, this recipe will guide you through creating sushi masterpieces.",
+          "difficulty": "Advanced",
+          "prepTime": "60 minutes"
+        },
+        {
+          "picture": "https://example.com/recipe12.jpg",
+          "name": "Mango Coconut Panna Cotta",
+          "description": "Indulge in a tropical treat with this creamy and refreshing mango coconut panna cotta. The combination of silky coconut milk and sweet mangoes is a match made in dessert heaven.",
+          "difficulty": "Intermediate",
+          "prepTime": "40 minutes"
+        }
+      ]
+    },
+    {"id":5,
+      "picture": "https://images.pexels.com/photos/17086340/pexels-photo-17086340/free-photo-of-chef-preparing-food.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Chef Michael",
+      "experience": 15,
+      "recipes": 70,
+      "likes": 1500,
+      "description": "Chef Michael is a culinary veteran with 15 years of experience under his belt. Known for his precise techniques and artistic presentation, he creates culinary masterpieces that are a feast for both the eyes and the taste buds.",
+      "recipeDetails":  [
+        {
+          "picture": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Roasted Salmon",
+          "description": "Enjoy the succulent flavors of perfectly roasted salmon with a hint of lemon and herbs. This dish is a crowd-pleaser and makes for a healthy and satisfying meal.",
+          "cook_method": "Roasting",
+          "prepTime": "30 minutes",
+          "Rating":"5",
+          "ingredients":"Vegetables,Spices,Fruits,Paket Milk,Banana"
+
+        },
+        {
+          "picture": "https://images.pexels.com/photos/6823324/pexels-photo-6823324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Creamy Mushroom Risotto",
+          "description": "Indulge in a creamy and flavorful mushroom risotto that melts in your mouth. This classic Italian dish is the perfect comfort food for any occasion.",
+          "cook_method": "Deep Frying",
+          "prepTime": "45 minutes",
+          "Rating":"4.5",
+          "ingredients":"Vegetables,Spices,Herbs,Meat Products,Fruits."
+        },
+        {
+          "picture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Decadent Chocolate Cake",
+          "description": "Satisfy your sweet tooth with a slice of this decadent chocolate cake. Moist, rich, and topped with luscious ganache, it's a dessert that will delight chocolate lovers.",
+          "cook_method": "Stey",
+          "ingredients":"Spices,Cereals, Meat.Dairy, Salt , Water ,Fruits.",
+          "prepTime": "60 minutes",
+          "Rating":"4"
+
+        }
+      ]
+    },
+    {
+    "id":6,
+      "picture": "https://images.pexels.com/photos/11838742/pexels-photo-11838742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Chef Labib",
+      "experience": 9,
+      "recipes": 45,
+      "likes": 900,
+      "description": "Chef Labib is known for his dedication to traditional flavors and techniques. With 9 years of experience, he brings the essence of his heritage to every dish, creating authentic and soulful culinary experiences.",
+      "recipeDetails": [
+        {
+          "picture": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Roasted Salmon",
+          "description": "Enjoy the succulent flavors of perfectly roasted salmon with a hint of lemon and herbs. This dish is a crowd-pleaser and makes for a healthy and satisfying meal.",
+          "cook_method": "Roasting",
+          "prepTime": "30 minutes",
+          "Rating":"5",
+          "ingredients":"Vegetables,Spices,Fruits,Paket Milk,Banana"
+
+        },
+        {
+          "picture": "https://images.pexels.com/photos/6823324/pexels-photo-6823324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Creamy Mushroom Risotto",
+          "description": "Indulge in a creamy and flavorful mushroom risotto that melts in your mouth. This classic Italian dish is the perfect comfort food for any occasion.",
+          "cook_method": "Deep Frying",
+          "prepTime": "45 minutes",
+          "Rating":"4.5",
+          "ingredients":"Vegetables,Spices,Herbs,Meat Products,Fruits."
+        },
+        {
+          "picture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Decadent Chocolate Cake",
+          "description": "Satisfy your sweet tooth with a slice of this decadent chocolate cake. Moist, rich, and topped with luscious ganache, it's a dessert that will delight chocolate lovers.",
+          "cook_method": "Stey",
+          "ingredients":"Spices,Cereals, Meat.Dairy, Salt , Water ,Fruits.",
+          "prepTime": "60 minutes",
+          "Rating":"4"
+
+        }
+      ]
+    }
+  ]
+  
